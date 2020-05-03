@@ -1,19 +1,17 @@
-# OhMyQR v1.0
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/thelinuxchoice
-### Don't copy this code without give me the credits, nerd! 
+# OhMyQR v1.1
+## Author: https://github.com/thelinuxchoice/ohmyqr
+## Twitter: https://twitter.com/linux_choice
 
-QR Code Jacking (Any Website)
+QRLJacking or Quick Response Code Login Jacking is a simple social engineering attack vector capable of session hijacking affecting all applications that rely on the “Login with QR code” feature as a secure way to login into accounts. In a nutshell, the victim scans the attacker’s QR code which results in session hijacking.
 
-![qr](https://user-images.githubusercontent.com/34893261/43678438-b78ba754-97e9-11e8-9191-63147a4039d7.png)
+![qr](https://user-images.githubusercontent.com/34893261/80925650-01879780-8d68-11ea-9328-5896af680018.png)
 
 ### Features:
-### Port Forwarding using Ngrok or Serveo
+### Port Forwarding using Ngrok
 
 ## Legal disclaimer:
 
 Usage of OhMyQR for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program 
-
 
 ### Usage:
 ```
@@ -23,6 +21,6 @@ bash ohmyqr.sh
 ```
 
 ### Donate!
-Support the authors:
-
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+Support the authors, buy me a coffee!
+### Paypal:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
